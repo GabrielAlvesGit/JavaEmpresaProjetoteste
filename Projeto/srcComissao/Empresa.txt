@@ -1,0 +1,3 @@
+CNPJ;nomeEmp
+2023;Hedy Lamarr
+

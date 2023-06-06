@@ -1,0 +1,30 @@
+idUf;nome;idregiao
+AC;Acre;1
+AP;Amapá;1
+AM;Amazonas;1
+PA;Pará;1
+RO;Rondônia;1 
+RR;Roraima;1
+TO;Tocantins;1
+AL;Alagoas;2
+BA;Bahia;2
+CE;Ceará;2
+MA;Maranhão;2
+PBP;araíba;2
+PE;Pernambuco;2
+PI;Piauí;2
+RN;Rio Grande do Norte;2
+SE;Sergipe;2
+DF;Distrito Federal;3
+GO;Goiás;3
+MT;Mato Grosso;3
+MS;Mato Grosso do Sul;3
+ES;Espírito Santo;4
+MG;Minas Gerais;4
+RJ;Rio de Janeiro;4
+SP;São Paulo;4
+PR;Paraná;5
+RS;Rio Grande do Sul;5
+SCSanta Catarina;5
+
+

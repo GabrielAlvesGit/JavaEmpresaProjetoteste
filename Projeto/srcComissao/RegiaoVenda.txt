@@ -1,0 +1,6 @@
+idregiao,nome
+1;Região Norte
+2;Região Nordeste
+3;Região Centro-Oeste
+4;Região Sudeste
+5;Região Sul
